@@ -3,6 +3,7 @@
 #include <math.h>
 
 using namespace std;
+//Nguyen Viet Anh
 
 typedef struct student {
 	long ID;
